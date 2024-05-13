@@ -1,3 +1,3 @@
 # 6thSem_AI_project
 
-Bitcoin Price Prediction
+Bitcoin and ethereum Price Prediction
